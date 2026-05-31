@@ -1,0 +1,44 @@
+# ── Python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ─────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── ONNX model (large binary — distribute separately) ────────
+*.onnx
+
+# ── Node / Frontend ──────────────────────────────────────────
+node_modules/
+dist/
+.vite/
+*.local
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Uploads / temp ───────────────────────────────────────────
+uploads/
+*.log
