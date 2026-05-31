@@ -65,7 +65,7 @@ wheatguard/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wheatguard.git
+git clone https://github.com/zaeemmughal/Wheat-Guard.git
 cd wheatguard
 ```
 
